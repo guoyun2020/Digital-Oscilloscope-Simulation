@@ -10,7 +10,12 @@
 ![avatar](/home/image/img2.jpg)  
 ![avatar](/home/image/img3.jpg)  
 ## 进度
-10.13 STM32 ADC单路电压采集、数据本地保存与读取、串口数据可视化  
-10.12 界面搭建、数据可视化（使用MATLAB生成正弦波测试）
+10.13  STM32 ADC单路电压采集、数据本地保存与读取、串口数据可视化。  
+10.12  界面搭建、数据可视化（使用MATLAB生成正弦波测试）。
+## Requirements
+opencv_python==4.5.3.56 
+numpy==1.19.3 
+scipy==1.2.1 
+PyQt5==5.15.4 
 
 
