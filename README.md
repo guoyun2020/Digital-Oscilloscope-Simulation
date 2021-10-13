@@ -6,8 +6,8 @@
 ### 上位机
 使用Qt与OpenCV完成数据可视化界面，读取本地txt数据并实时绘制。 
 ## 效果
-![avatar](/image/img1.jpg)   
-![avatar](/image/img2.jpg)    
+![avatar](/image/img1.png)   
+![avatar](/image/img2.png)    
 ![avatar](/image/img3.jpg)    
 ## 进度
 10.13  STM32 ADC单路电压采集、数据本地保存与读取、串口数据可视化。  
